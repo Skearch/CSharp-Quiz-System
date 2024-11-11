@@ -1,0 +1,17 @@
+D:\Coding Project\CSharp-Quiz-System\bin\Debug\net8.0-windows\CSharp-Quiz-System.exe
+D:\Coding Project\CSharp-Quiz-System\bin\Debug\net8.0-windows\CSharp-Quiz-System.deps.json
+D:\Coding Project\CSharp-Quiz-System\bin\Debug\net8.0-windows\CSharp-Quiz-System.runtimeconfig.json
+D:\Coding Project\CSharp-Quiz-System\bin\Debug\net8.0-windows\CSharp-Quiz-System.dll
+D:\Coding Project\CSharp-Quiz-System\bin\Debug\net8.0-windows\CSharp-Quiz-System.pdb
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp_Quiz_System.frmItems.resources
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp_Quiz_System.frmMain.resources
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.csproj.GenerateResource.cache
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.AssemblyInfoInputs.cache
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.AssemblyInfo.cs
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.csproj.CoreCompileInputs.cache
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.dll
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\refint\CSharp-Quiz-System.dll
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.pdb
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\CSharp-Quiz-System.genruntimeconfig.cache
+D:\Coding Project\CSharp-Quiz-System\obj\Debug\net8.0-windows\ref\CSharp-Quiz-System.dll

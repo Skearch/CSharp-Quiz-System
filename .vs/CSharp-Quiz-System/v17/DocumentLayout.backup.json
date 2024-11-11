@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding Project\\CSharp-Quiz-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|d:\\coding project\\csharp-quiz-system\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|solutionrelative:frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|d:\\coding project\\csharp-quiz-system\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|solutionrelative:frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|d:\\coding project\\csharp-quiz-system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|D:\\Coding Project\\CSharp-Quiz-System\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8337B7BC-836A-4776-8EC6-B0D7CEC5F450}|CSharp-Quiz-System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Coding Project\\CSharp-Quiz-System\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Coding Project\\CSharp-Quiz-System\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:30:08.582Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Coding Project\\CSharp-Quiz-System\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\Coding Project\\CSharp-Quiz-System\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwLAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:27:01.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmItems.cs [Design]",
+              "DocumentMoniker": "D:\\Coding Project\\CSharp-Quiz-System\\frmItems.cs",
+              "RelativeDocumentMoniker": "frmItems.cs",
+              "ToolTip": "D:\\Coding Project\\CSharp-Quiz-System\\frmItems.cs [Design]",
+              "RelativeToolTip": "frmItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:32:24.179Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmItems.cs",
+              "DocumentMoniker": "D:\\Coding Project\\CSharp-Quiz-System\\frmItems.cs",
+              "RelativeDocumentMoniker": "frmItems.cs",
+              "ToolTip": "D:\\Coding Project\\CSharp-Quiz-System\\frmItems.cs",
+              "RelativeToolTip": "frmItems.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:32:32.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
